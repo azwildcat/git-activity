@@ -307,3 +307,7 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* Email:  pmasson@albany.edu
 	* GitHub: profmasson
 	* IRC: OSIMasson
+
+* Yekaterina Kharitonova, Harvey Mudd College
+	* Email: ykharitonova-at-hmc.edu
+	* Github: azwildcat
